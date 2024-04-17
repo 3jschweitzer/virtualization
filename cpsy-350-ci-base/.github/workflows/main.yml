@@ -51,3 +51,4 @@ jobs:
               run: |
                 docker build -t jschweitzersait/virtualization:latest
                 docker push jschweitzersait/virtualization:latest
+                
